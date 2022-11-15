@@ -6,11 +6,6 @@ function App() {
     <h1> Hello World! </h1>
     <NotificationButton/>
     <NotificationButton/>
-    <NotificationButton/>
-    <NotificationButton/>
-    <NotificationButton/>
-    <NotificationButton/>
-    <NotificationButton/>
     </>
   )
 }
